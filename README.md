@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Samagra Pandey, I am currently a freshman at UCLA.
 <!--
 **samagrapandey05/samagrapandey05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
